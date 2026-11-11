@@ -1,0 +1,18 @@
+.generator-layout {
+  display: grid;
+  gap: 20px;
+}
+
+.preview-box {
+  position: relative;
+}
+
+.preview-controls {
+  display: grid;
+  gap: 14px;
+}
+
+#qr-preview-canvas {
+  width: 100%;
+  max-width: 320px;
+}
